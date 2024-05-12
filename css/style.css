@@ -69,3 +69,19 @@ img {
     width: 150px !important;
     height: auto !important;
 }
+
+.navbar-nav-custom {
+    margin-left: auto;
+}
+
+.navbar-brand img {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+.custom-icon-patent {
+    width: 200px !important;
+    height: auto !important;
+    margin-left: 10px;
+    margin-top: 10px;
+}
